@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Gokul Kanagaraj
+# 👋 Hi, 
+    
+I'm Gokul Kanagaraj
 
-Welcome to my cybersecurity portfolio! I’m passionate about protecting systems, networks, and data from digital threats. My journey in cybersecurity involves continuous learning and hands-on experience with the latest tools and techniques.
+  Welcome to my portfolio! I’m passionate about protecting systems, networks, and data from digital threats. My journey in cybersecurity involves continuous learning and hands-on experience with the latest tools and techniques.
 
 ---
 
@@ -33,12 +35,53 @@ Welcome to my cybersecurity portfolio! I’m passionate about protecting systems
 
 ---
 
-## 📫 Contact
+## 📃 Certifications
 
-- Email: your-email@example.com
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- GitHub: [Gokulkanagaraj-07](https://github.com/Gokulkanagaraj-07)
+- Certified Ethical Hacker
+- Certified Cybersecurity Practitioner
+- Fortinet Certified Associate in Cybersecurity
+- CSI Linux Certified Investigator
+- Blue Team Junior Analyst
+- Junior Cybersecurity Analyst
+- Certified in Cybersecurity
+- The Complete Hands-on Cybersecurity Analyst Course
+
+
+## 🏅 Achievements
+
+
+- Credly       -----> https://www.credly.com/users/gokul-kanagaraj.cb508ea6
+
+                      Got 15+ Badges form various Oragnazation
+                      CISCO, IBM, ISC2 etc.
+
+ - Leetcode    ----->
+
+               Solve 100+ problems
+
+
+- Try Hack me  ----->
+
+  
+               Top 8%
+               Solve 50+ Labs
+- Security Awarness -----> Social Engineering Attacks
+
+               Over 200+ non-techinical Domain Students
+---
+## 📝 Blogs
+
+- Medium     -----> Gokulkanagaraj
+                    https://medium.com/@GokulKangaraj
 
 ---
 
-> "The quieter you become, the more you are able to hear." – Kali Linux
+## 📫 Contact
+
+- Email   : gokulkanagaraj7@gmail.com
+- LinkedIn: [Gokul Kanagaraj](https://www.linkedin.com/in/gokul-kanagaraj07/)
+- GitHub  : [Gokulkanagaraj-07](https://github.com/Gokulkanagaraj-07)
+
+---
+
+
