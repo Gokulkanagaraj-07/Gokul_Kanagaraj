@@ -1,1 +1,34 @@
+1.Caesar Cipher:
 
+    The Caesar cipher is a simple encryption technique that was used by Julius Caesar to
+send secret messages to his allies. It works by shifting the letters in the plaintext
+message by a certain number of positions, known as the “shift” or “key”. The Caesar Cipher
+technique is one of the earliest and simplest methods of encryption techniques.
+
+
+Github link-----> https://github.com/Gokulkanagaraj-07/caesar-cipher.git
+
+
+
+
+2.PacketSniffer:
+ 
+    A packet sniffer is a tool or software used to capture and analyze data packets
+traveling across a computer network. Data transmitted over a network is broken into 
+smaller units called packets, which are reassembled at the receiving end. Packet sniffing 
+involves intercepting these packets to examine their contents.
+
+
+Githun link-----> https://github.com/Gokulkanagaraj-07/Packet-Sniffer.git
+
+
+
+
+3.keylogger:
+ 
+  It is a type of surveillance technology used to monitor and record each keystroke 
+typed on a keyboard. Keyloggers can be software-based or hardware-based, and they 
+often operate in the background without the user’s knowledge.
+
+
+Github link-----> https://github.com/Gokulkanagaraj-07/keylogger.git
