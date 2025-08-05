@@ -50,7 +50,8 @@ I'm Gokul Kanagaraj
 ## 🏅 Achievements
 
 
-- Credly       -----> https://www.credly.com/users/gokul-kanagaraj.cb508ea6
+- Credly       -----> Gokul Kanagaraj
+                       https://www.credly.com/users/gokul-kanagaraj.cb508ea6
 
                       Got 15+ Badges form various Oragnazation
                       CISCO, IBM, ISC2 etc.
@@ -72,7 +73,10 @@ I'm Gokul Kanagaraj
 ## 📝 Blogs
 
 - Medium     -----> Gokulkanagaraj
-                    https://medium.com/@GokulKangaraj
+
+                    CTF
+                    Career Blogs
+  https://medium.com/@GokulKangaraj
 
 ---
 
