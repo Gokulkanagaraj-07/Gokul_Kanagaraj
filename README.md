@@ -2,7 +2,11 @@
     
 I'm Gokul Kanagaraj
 
-  Welcome to my portfolio! I’m passionate about protecting systems, networks, and data from digital threats. My journey in cybersecurity involves continuous learning and hands-on experience with the latest tools and techniques.
+  Welcome to my portfolio! 
+  
+  
+    
+I’m passionate about protecting systems, networks, and data from digital threats. My journey in cybersecurity involves continuous learning and hands-on experience with the latest tools and techniques.
 
 ---
 
@@ -29,16 +33,20 @@ I'm Gokul Kanagaraj
 
 | Project | Description | Link |
 |---------|-------------|------|
-| CTF Writeups | Documented solutions and techniques for various CTF challenges | [Repo](#) |
-| Vulnerability Scanner | A script to automate basic vulnerability scanning on networks | [Repo](#) |
-| Security Awareness Training | Materials and presentations for educating users about common threats | [Repo](#) |
+| Caesar-Cipher | Simple Encryption Technique | [Repo](https://github.com/Gokulkanagaraj-07/caesar-cipher.git) |
+| Pixel manipulation for Image Encryption | Simple image encryption tool using pixel manipulation techniques | [Repo](https://github.com/Gokulkanagaraj-07/image-encryption-and-decryption.git) |
+| PacketSniffer | capture and analyze data packets traveling across a computer network | [Repo](https://github.com/Gokulkanagaraj-07/Packet-Sniffer.git) |
+| Password Complexity Checker | the strength of a password based on various criteria | [Repo](https://github.com/Gokulkanagaraj-07/Password_Complexity_checker.git) |
+| keylogger | used to monitor and record each keystroke | [Repo](https://github.com/Gokulkanagaraj-07/keylogger.git) |
+| Security Awareness Training | Phishing Awareness | [Repo](https://github.com/Gokulkanagaraj-07/Phishing_Awareness.git) |
+
 
 ---
 
 ## 📃 Certifications
 
 - Certified Ethical Hacker
-- Palo Alto Networks Certified Cybersecurity Practitioner
+- Certified Cybersecurity Practitioner
 - Fortinet Certified Associate in Cybersecurity
 - CSI Linux Certified Investigator
 - Blue Team Junior Analyst
@@ -52,24 +60,24 @@ I'm Gokul Kanagaraj
 
 - Credly       -----> Gokul Kanagaraj
 
-
-
-  https://www.credly.com/users/gokul-kanagaraj.cb508ea6
+  
+    https://www.credly.com/users/gokul-kanagaraj.cb508ea6
 
                Got 15+ Badges form various Oragnazation
                CISCO, IBM, ISC2 etc.
 
  - Leetcode    -----> GOKUL-K
 
-
-   https://leetcode.com/u/GOKUL-K/
    
+    https://leetcode.com/u/GOKUL-K/
+
                Solve 100+ problems
 
 
 - Try Hack me  -----> GokulKanagaraj
 
   https://tryhackme.com/p/GokulKanagaraj
+
   
                Top 8%
                Solve 50+ Labs
@@ -80,11 +88,11 @@ I'm Gokul Kanagaraj
 ## 📝 Blogs
 
 - Medium     -----> Gokulkanagaraj
-
-  https://medium.com/@GokulKangaraj
-
-                    CTF
-                    Career Blogs
+  
+   https://medium.com/@GokulKangaraj
+  
+                CTF Writeups
+                Career Blogs
  
 
 ---
@@ -96,5 +104,6 @@ I'm Gokul Kanagaraj
 - GitHub  : [Gokulkanagaraj-07](https://github.com/Gokulkanagaraj-07)
 
 ---
+
 
 
