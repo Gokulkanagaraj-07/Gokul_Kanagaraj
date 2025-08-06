@@ -38,7 +38,7 @@ I'm Gokul Kanagaraj
 ## 📃 Certifications
 
 - Certified Ethical Hacker
-- Certified Cybersecurity Practitioner
+- Palo Alto Networks Certified Cybersecurity Practitioner
 - Fortinet Certified Associate in Cybersecurity
 - CSI Linux Certified Investigator
 - Blue Team Junior Analyst
@@ -51,18 +51,25 @@ I'm Gokul Kanagaraj
 
 
 - Credly       -----> Gokul Kanagaraj
-                       https://www.credly.com/users/gokul-kanagaraj.cb508ea6
 
-                      Got 15+ Badges form various Oragnazation
-                      CISCO, IBM, ISC2 etc.
 
- - Leetcode    ----->
 
+  https://www.credly.com/users/gokul-kanagaraj.cb508ea6
+
+               Got 15+ Badges form various Oragnazation
+               CISCO, IBM, ISC2 etc.
+
+ - Leetcode    -----> GOKUL-K
+
+
+   https://leetcode.com/u/GOKUL-K/
+   
                Solve 100+ problems
 
 
-- Try Hack me  ----->
+- Try Hack me  -----> GokulKanagaraj
 
+  https://tryhackme.com/p/GokulKanagaraj
   
                Top 8%
                Solve 50+ Labs
@@ -74,9 +81,11 @@ I'm Gokul Kanagaraj
 
 - Medium     -----> Gokulkanagaraj
 
+  https://medium.com/@GokulKangaraj
+
                     CTF
                     Career Blogs
-  https://medium.com/@GokulKangaraj
+ 
 
 ---
 
