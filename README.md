@@ -29,6 +29,49 @@ I’m passionate about protecting systems, networks, and data from digital threa
 
 ---
 
+
+
+## Internship and Work Experience
+
+ 1.Cyber Security & Ethical Hacking
+
+    TechnoHacks EduTech Official  · Internship
+    Mar 2024 - Apr 2024 
+    Remote
+
+ Cybersecurity is the practice of defending digital systems, networks, and data from malicious attacks, ensuring confidentiality, integrity, and availability. As cyber threats evolve, organizations rely on robust security frameworks to prevent breaches and safeguard sensitive information.
+Ethical hacking, also known as penetration testing, involves authorized professionals simulating cyberattacks to identify vulnerabilities before real attackers exploit them. Ethical hackers use the same tools and techniques as malicious hackers—but with permission and purpose to strengthen security posture.
+Together, these fields form the backbone of digital trust, enabling safe innovation, secure communication, and resilient infrastructure in an increasingly connected world.
+   
+
+
+
+ 2.Penetration Testing
+ 
+    CFSS Cyber & Forensics Security Solutions · Internship
+    Aug 2024 - Sep 2024 
+    Remote
+
+Penetration Testing, or pen testing, is a simulated cyberattack conducted by security professionals to identify and exploit vulnerabilities in systems, networks, or applications. It mimics real-world hacking techniques to assess how resilient an organization’s defenses are against threats.
+The process typically involves five stages: planning, scanning, gaining access, maintaining access, and analysis. By uncovering security gaps and demonstrating potential impact, pen testing helps organizations strengthen their defenses, comply with regulations, and reduce risk exposure.
+It’s a critical tool in proactive cybersecurity, ensuring that systems are not just secure in theory but in practice.
+
+   
+
+
+ 3.Cyber Security Intern
+ 
+    Navodita Infotech · Internship
+    May 2025 - Jun 2025 
+    Remote
+
+A Cybersecurity Intern supports an organization’s security team by assisting in threat detection, vulnerability assessment, and incident response. Interns gain hands-on experience with tools like SIEM, firewalls, and intrusion detection systems, while learning to analyze logs, monitor network traffic, and implement basic security protocols.
+They may also contribute to penetration testing, malware analysis, and automation scripting under expert guidance. This role bridges academic learning with real-world application, helping interns develop technical skills, professional discipline, and a deeper understanding of cybersecurity operations.
+It’s a launchpad for future security analysts, ethical hackers, and cyber defenders.
+
+
+---
+
 ## 🧑‍💻 Projects
 
 | Project | Description | Link |
@@ -79,11 +122,14 @@ I’m passionate about protecting systems, networks, and data from digital threa
   https://tryhackme.com/p/GokulKanagaraj
 
   
-               Top 8%
-               Solve 50+ Labs
+               Top 6%
+               Solve 100+ Labs
+               10+ Badges
+  
 - Security Awarness -----> Social Engineering Attacks
 
                Over 200+ non-techinical Domain Students
+  
 ---
 ## 📝 Blogs
 
@@ -91,8 +137,8 @@ I’m passionate about protecting systems, networks, and data from digital threa
   
    https://medium.com/@GokulKangaraj
   
-                CTF Writeups
-                Career Blogs
+                1.CTF Writeups
+                2.Career Blogs
  
 
 ---
